@@ -1,3 +1,3 @@
-node('node') {
+node {
     helloWorld "dude"
 }
